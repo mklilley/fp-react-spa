@@ -1,7 +1,9 @@
-# spa
+# spa - complete
 
-This repo contains a small bit of starer code for teaching people about **S**ingle **P**age **A**pplications - SPAs
+This complete branch contains a small React app. This was built up from the main branch in a code along session
 
 ## Using this repo
-- Fork this repo
+- Fork this repo - make sure to untick the "only main branch"
 - `git clone`
+- `git checkout complete`
+- `npm run dev`
