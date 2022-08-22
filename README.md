@@ -5,4 +5,3 @@ This repo contains a small bit of starer code for teaching people about **S**ing
 ## Using this repo
 - Fork this repo
 - `git clone`
-- `npx http-server -c-1`
