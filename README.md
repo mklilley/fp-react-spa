@@ -5,5 +5,6 @@ This complete branch contains a small React app. This was built up from the main
 ## Using this repo
 - Fork this repo - make sure to untick the "only main branch"
 - `git clone`
-- `git checkout complete`
+- `git switch complete`
+- `npm install`
 - `npm run dev`
