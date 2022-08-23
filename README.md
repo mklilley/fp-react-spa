@@ -1,4 +1,4 @@
-# spa - complete
+# react-spa (complete)
 
 This complete branch contains a small React app. This was built up from the main branch in a code along session
 
